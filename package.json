@@ -1,0 +1,20 @@
+{
+  "name": "discord_bot_commander",
+  "version": "1.0.0",
+  "description": "Commander_tree_bot",
+  "main": "main.js",
+  "scripts": {
+    "test": "bot, tree, commander, discord"
+  },
+  "keywords": [
+    "bot",
+    "discord",
+    "tree",
+    "commander_bot"
+  ],
+  "author": "Bram",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^12.3.1"
+  }
+}
